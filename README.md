@@ -1,4 +1,5 @@
 # ConwaysGameOfLife
+
 Exercise for Cohort Juniper (10)
 
 
