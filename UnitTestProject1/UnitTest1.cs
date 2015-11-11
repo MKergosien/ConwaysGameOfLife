@@ -8,7 +8,7 @@ namespace Conways
     public class GameOfLife
     {
         [TestMethod]
-        public void StillLife()
+        public void StillLife() //still life
         {
             bool[,] StillLife = new bool[,] { { true, true }, { true, true } };
             Map board = new Map(StillLife);
