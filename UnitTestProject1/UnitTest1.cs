@@ -2,13 +2,13 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using ConwaysGameOfLife;
 
-namespace Conways //another change
+namespace Conways
 {
     [TestClass]
     public class GameOfLife
     {
         [TestMethod]
-        public void StillLife() //still life 
+        public void StillLife()
 
         {
             bool[,] StillLife = new bool[,] { { true, true }, { true, true } };
